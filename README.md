@@ -12,3 +12,4 @@
 
 - [GamingNexus.exe](https://github.com/TREYAK-TSP/GamingNexus/releases/download/v1.0.0/GamingNexus.exe): Direct download
 
+**Note: Once downloaded, keep it on a folder since it will create a database file on the same directory**
